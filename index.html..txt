@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Личный сайт Ergali Ashim">
+    <meta name="keywords" content="Ergali Ashim, личный сайт, портфолио">
+    <meta name="author" content="Ergali Ashim">
+    <title>Ergali Ashim</title>
+</head>
+<body>
+    <h1>Привет, я Ergali Ashim!</h1>
+    <p>Это мой личный сайт, где я делюсь своими проектами и идеями.</p>
+    <p>вы можете также посетить мой основной сайт: <a href="https://ashimergali45.wixsite.com/ashim06" target="_blank">Мой сайт</a></p>  
